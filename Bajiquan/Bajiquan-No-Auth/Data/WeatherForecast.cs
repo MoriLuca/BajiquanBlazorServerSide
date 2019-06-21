@@ -1,6 +1,6 @@
 using System;
 
-namespace Bajiquan.Data
+namespace Bajiquan_No_Auth.Data
 {
     public class WeatherForecast
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29006.145
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bajiquan", "Bajiquan\Bajiquan.csproj", "{E1F5A536-2575-4713-B5F5-02082C3E75EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bajiquan-No-Auth", "Bajiquan-No-Auth\Bajiquan-No-Auth.csproj", "{57453B7A-D787-40A4-A3AD-C5DCC018F87D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E1F5A536-2575-4713-B5F5-02082C3E75EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1F5A536-2575-4713-B5F5-02082C3E75EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1F5A536-2575-4713-B5F5-02082C3E75EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1F5A536-2575-4713-B5F5-02082C3E75EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57453B7A-D787-40A4-A3AD-C5DCC018F87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57453B7A-D787-40A4-A3AD-C5DCC018F87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57453B7A-D787-40A4-A3AD-C5DCC018F87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57453B7A-D787-40A4-A3AD-C5DCC018F87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
